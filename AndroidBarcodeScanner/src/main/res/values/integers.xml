@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="scanner_rect_width">150</integer>
+    <integer name="scanner_rect_height">150</integer>
+    <integer name="line_width">4</integer>
+    </resources>
